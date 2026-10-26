@@ -1,23 +1,20 @@
 #!/bin/bash
 
-#My configs with logo top
+#My configs with Fedora 45 (Prerelease)
 
 #cat<<"EOF"
-#    ___
-#   (.. \
-#   (<> |
-#  //  \ \
-# ( |  | /|
-#_/\ __)/_)
-#\/-____\/
-#OS: Fedora Linux 45 x64
-#Shell: fish
-#DE: None
-#WM: i3
-#Version: OldFetch linux-0.2
-#----------
-#CPU: AMD Ryzen 5 7535HS
-#RAM: 16GB
+#    ___     OS: Fedora 45 x64
+#   (.. \    Shell: fish
+#   (<> |    DE: None
+#  //  \ \   WM: i3
+# ( |  | /|  Version: OldFetch linux-0.2
+#_/\ __)/_)  ----------
+#\/-____\/   Host: ASUS TUF Gaming A15 FA506NC
+#            CPU: AMD Ryzen 5 7535HS
+#            GPU 1: NVIDIA GeForce RTX 3050
+#            GPU 2: AMD Radeon 680M 
+#            RAM: 16GB
+#
 #EOF
 
 cat<<"EOF"
