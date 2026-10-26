@@ -1,0 +1,14 @@
+#!/bin/bash
+
+cat<<"EOF"
+    ___     OS: [linuxdistro]
+   (.. \    Shell: [bash/fish]
+   (<> |    DE: [yourde]
+  //  \ \   WM: [yourwm]
+ ( |  | /|  ----------
+_/\ __)/_)  Host: [yourpc]
+\/-____\/   CPU: [yourcpu]
+            GPU: [yourgpu]
+            RAM: [ramsize]
+            Version: OldFetch linux-0.2
+EOF
