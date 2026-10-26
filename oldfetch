@@ -1,14 +1,35 @@
 #!/bin/bash
 
+#My configs on for Fedora 45 (Prerelease)
+
+#cat<<"EOF"
+#    ___
+#   (.. \
+#   (<> |
+#  //  \ \
+# ( |  | /|
+#_/\ __)/_)
+#\/-____\/
+#
+#OS: Fedora Linux 45 x64
+#Shell: fish
+#DE: None
+#WM: i3
+#Version: OldFetch linux-0.2
+#----------
+#CPU: AMD Ryzen 5 7535HS
+#RAM: 16GB
+#EOF
+
 cat<<"EOF"
-    ___     OS: [linuxdistro]
+    ___     OS: [linuxdistro] [x86/x64/arm64]
    (.. \    Shell: [bash/fish]
    (<> |    DE: [yourde]
   //  \ \   WM: [yourwm]
- ( |  | /|  ----------
-_/\ __)/_)  Host: [yourpc]
-\/-____\/   CPU: [yourcpu]
+ ( |  | /|  Version: OldFetch linux-0.2
+_/\ __)/_)  ----------
+\/-____\/   Host: [yourpc]
+            CPU: [yourcpu]
             GPU: [yourgpu]
             RAM: [ramsize]
-            Version: OldFetch linux-0.2
 EOF
