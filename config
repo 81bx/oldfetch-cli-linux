@@ -2,7 +2,7 @@ OS: [linuxdistro] [x86/x64/arm64]
 Shell: [bash/fish]
 DE: [yourde]
 WM: [yourwm]
-Version: OldFetch linux-0.2
+Version: OldFetch linux-0.3
 ----------
 Host: [yourpc]
 CPU: [yourcpu]
