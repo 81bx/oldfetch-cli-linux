@@ -7,7 +7,7 @@
 #   (.. \    Shell: fish
 #   (<> |    DE: None
 #  //  \ \   WM: i3
-# ( |  | /|  Version: OldFetch linux-0.2
+# ( |  | /|  Version: OldFetch linux-0.3
 #_/\ __)/_)  ----------
 #\/-____\/   Host: ASUS TUF Gaming A15 FA506NC
 #            CPU: AMD Ryzen 5 7535HS
@@ -22,7 +22,7 @@ cat<<"EOF"
    (.. \    Shell: [bash/fish]
    (<> |    DE: [yourde]
   //  \ \   WM: [yourwm]
- ( |  | /|  Version: OldFetch linux-0.2
+ ( |  | /|  Version: OldFetch linux-0.3
 _/\ __)/_)  ----------
 \/-____\/   Host: [yourpc]
             CPU: [yourcpu]
