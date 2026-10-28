@@ -3,7 +3,7 @@ Kernel: [linuxkernel]
 Shell: [bash/fish]
 DE: [yourde]
 WM: [yourwm]
-Version: OldFetch linux-0.3
+Version: OldFetch linux-0.4
 ----------
 Host: [yourpc]
 CPU: [yourcpu]
