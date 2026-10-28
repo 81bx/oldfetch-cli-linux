@@ -1,30 +1,14 @@
 #!/bin/bash
 
-#My configs with Fedora 45 (Prerelease)
-
-#cat<<"EOF"
-#    ___     OS: Fedora 45 x64
-#   (.. \    Shell: fish
-#   (<> |    DE: None
-#  //  \ \   WM: i3
-# ( |  | /|  Version: OldFetch linux-0.3
-#_/\ __)/_)  ----------
-#\/-____\/   Host: ASUS TUF Gaming A15 FA506NC
-#            CPU: AMD Ryzen 5 7535HS
-#            GPU 1: NVIDIA GeForce RTX 3050
-#            GPU 2: AMD Radeon 680M 
-#            RAM: 16GB
-#
-#EOF
-
 cat<<"EOF"
     ___     OS: [linuxdistro] [x86/x64/arm64]
-   (.. \    Shell: [bash/fish]
-   (<> |    DE: [yourde]
-  //  \ \   WM: [yourwm]
- ( |  | /|  Version: OldFetch linux-0.3
-_/\ __)/_)  ----------
-\/-____\/   Host: [yourpc]
+   (.. \    Kernel: [linuxkernel]
+   (<> |    Shell: [bash/fish]
+  //  \ \   DE: [yourde]
+ ( |  | /|  WM: [yourwm]
+_/\ __)/_)  Version: OldFetch linux-0.4
+\/-____\/   ----------
+            Host: [yourpc]
             CPU: [yourcpu]
             GPU: [yourgpu]
             RAM: [ramsize]
