@@ -7,7 +7,7 @@ cat<<"EOF"
   //  \ \   Shell: [bash/fish]
  ( |  | /|  DE: [yourde]
 _/\ __)/_)  WM: [yourwm]
-\/-____\/   Version: OldFetch linux-0.5
+\/-____\/   Version: [sources]
             ----------
             Host: [yourpc]
             CPU: [yourcpu]
