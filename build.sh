@@ -1,6 +1,5 @@
 #!bin/bash
 #This file is editable, no matter what are Linux distro(s) you using and what architechture(s) you had on your CPU
-#You also can put "[Hidden]" to any configs you want
 
 echo "#!/bin/bash" >> $HOME/.config/oldfetch.dev
 echo " " >> $HOME/.config/oldfetch.dev
@@ -21,6 +20,7 @@ echo "EOF" >> $HOME/.config/oldfetch.dev
 chmod u+x $HOME/.config/oldfetch.dev
 clear
 $HOME/.config/oldfetch.dev
-echo Your OldFetch build has been compiled!
+echo Your OldFetch build has been compiled so super quicky!
 echo Your file is $HOME/.config/oldfetch.dev
 echo You can change whatever you want.
+echo You also can put "Hidden" to any configs you want
