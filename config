@@ -4,7 +4,7 @@ Kernel: [linuxkernel]
 Shell: [bash/fish]
 DE: [yourde]
 WM: [yourwm]
-Version: OldFetch linux-0.4
+Version: [sources]
 ----------
 Host: [yourpc]
 CPU: [yourcpu]
