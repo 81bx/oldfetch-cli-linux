@@ -1,13 +1,14 @@
 #!/bin/bash
 
 cat<<"EOF"
-    ___     OS: [linuxdistro] [x86/x64/arm64]
-   (.. \    Kernel: [linuxkernel]
-   (<> |    Shell: [bash/fish]
-  //  \ \   DE: [yourde]
- ( |  | /|  WM: [yourwm]
-_/\ __)/_)  Version: OldFetch linux-0.4
-\/-____\/   ----------
+    ___     [username] - [hostname]
+   (.. \    OS: [linuxdistro] [x86/x64/arm64]
+   (<> |    Kernel: [linuxkernel]
+  //  \ \   Shell: [bash/fish]
+ ( |  | /|  DE: [yourde]
+_/\ __)/_)  WM: [yourwm]
+\/-____\/   Version: OldFetch linux-0.5
+            ----------
             Host: [yourpc]
             CPU: [yourcpu]
             GPU: [yourgpu]
