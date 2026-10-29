@@ -1,3 +1,4 @@
+[username] - [hostname]
 OS: [linuxdistro] [x86/x64/arm64]
 Kernel: [linuxkernel]
 Shell: [bash/fish]
