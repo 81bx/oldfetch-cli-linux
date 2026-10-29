@@ -16,3 +16,5 @@ echo "            CPU: [yourcpu]" >> $HOME/.config/oldfetch
 echo "            GPU: [yourgpu]" >> $HOME/.config/oldfetch
 echo "            RAM: [ramsize]" >> $HOME/.config/oldfetch
 echo "EOF" >> $HOME/.config/oldfetch
+chmod u+x $HOME/.config/oldfetch
+$HOME/.config/oldfetch
