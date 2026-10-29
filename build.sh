@@ -1,6 +1,6 @@
 #!bin/bash
 
-echo "#!bin/bash" >> $HOME/.config/oldfetch
+echo "#!/bin/bash" >> $HOME/.config/oldfetch
 echo " " >> $HOME/.config/oldfetch
 echo "cat<<"EOF"" >> $HOME/.config/oldfetch
 echo "    ___     [username] - [hostname]" >> $HOME/.config/oldfetch
