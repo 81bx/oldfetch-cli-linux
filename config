@@ -4,6 +4,7 @@ Kernel: [linuxkernel]
 Shell: [bash/fish]
 DE: [yourde]
 WM: [yourwm]
+LM: [yourlm]
 Version: [sources]
 ----------
 Host: [yourpc]
