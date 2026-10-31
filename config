@@ -1,7 +1,7 @@
 [username] - [hostname]
 OS: [linuxdistro] [x86/x64/arm64]
 Kernel: [linuxkernel]
-System Init: [systemd/openrc/runit]" >> $HOME/.config/oldfetch.dev
+System Init: [systemd/openrc/runit]
 Shell: [bash/fish]
 DE: [yourde]
 WM: [yourwm]
