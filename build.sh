@@ -7,10 +7,11 @@ echo "cat<<"EOF"" >> $HOME/.config/oldfetch.dev
 echo "    ___     [username] - [hostname]" >> $HOME/.config/oldfetch.dev
 echo "   (.. \    OS: [linuxdistro] [x86/x64/arm64]" >> $HOME/.config/oldfetch.dev
 echo "   (<> |    Kernel: [linuxkernel]" >> $HOME/.config/oldfetch.dev
-echo "  //  \ \   Shell: [bash/fish]" >> $HOME/.config/oldfetch.dev
-echo " ( |  | /|  DE: [yourde]" >> $HOME/.config/oldfetch.dev
-echo "_/\ __)/_)  WM: [yourwm]" >> $HOME/.config/oldfetch.dev
-echo "\/-____\/   LM: [yourlm]" >> $HOME/.config/oldfetch.dev
+echo "  //  \ \   System Init: [systemd/openrc/runit]" >> $HOME/.config/oldfetch.dev
+echo " ( |  | /|  Shell: [bash/fish]" >> $HOME/.config/oldfetch.dev
+echo "_/\ __)/_)  DE: [yourde]" >> $HOME/.config/oldfetch.dev
+echo "\/-____\/   WM: [yourwm]" >> $HOME/.config/oldfetch.dev
+echo "            LM: [yourlm]" >> $HOME/.config/oldfetch.dev
 echo "            Version: OldFetch linux-0.8-dev" >> $HOME/.config/oldfetch.dev
 echo "            ----------" >> $HOME/.config/oldfetch.dev
 echo "            Host: [yourpc]" >> $HOME/.config/oldfetch.dev
