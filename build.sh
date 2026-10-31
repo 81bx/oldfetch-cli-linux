@@ -12,7 +12,7 @@ echo " ( |  | /|  Shell: [bash/fish]" >> $HOME/.config/oldfetch.dev
 echo "_/\ __)/_)  DE: [yourde]" >> $HOME/.config/oldfetch.dev
 echo "\/-____\/   WM: [yourwm]" >> $HOME/.config/oldfetch.dev
 echo "            LM: [yourlm]" >> $HOME/.config/oldfetch.dev
-echo "            Version: OldFetch linux-0.8-dev" >> $HOME/.config/oldfetch.dev
+echo "            Version: OldFetch linux-0.9-dev" >> $HOME/.config/oldfetch.dev
 echo "            ----------" >> $HOME/.config/oldfetch.dev
 echo "            Host: [yourpc]" >> $HOME/.config/oldfetch.dev
 echo "            CPU: [yourcpu]" >> $HOME/.config/oldfetch.dev
